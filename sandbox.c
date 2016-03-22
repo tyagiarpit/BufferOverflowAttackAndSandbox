@@ -1,13 +1,3 @@
-/*
- * sandbox.c
- *
- * Single Author info:
- * atyagi2 Arpit Tyagi
- * Group info:
- * atyagi2 Arpit Tyagi
- * rpatel16 Ravi Ashok Kumar Patel
- * bjiang6 Bowen Jiang
- */
 
 #include <malloc.h>
 #include <stdio.h>
